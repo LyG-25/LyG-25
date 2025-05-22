@@ -1,5 +1,5 @@
 ## 👩‍🏫 Field of Practice 
-Faculty Researcher (Mathematics)
+Faculty Researcher @ **MSUN**
 
 ## 🎯 Skill
 A beginner in data science and coding.
