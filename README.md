@@ -1,5 +1,5 @@
 ## 👩‍🏫 Field of Practice 
-Faculty Researcher (Mathematics) 
+Faculty Researcher (Mathematics),MSUN
 
 ## 🎯 Skill Tier 
 A beginner in data science and coding.
