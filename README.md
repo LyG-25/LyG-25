@@ -1,7 +1,7 @@
 ## 👩‍🏫 Field of Practice 
 Faculty Researcher (Mathematics) 
 
-## 🎯 Quest 
+## 🎯 Skill Tier 
 A beginner in data science and coding.
 
 - 🔭 Currently learning data analysis using Python.
